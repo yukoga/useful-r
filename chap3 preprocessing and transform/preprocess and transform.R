@@ -12,3 +12,6 @@ pairs(iris)
 
 library('GGally')
 ggpairs(iris, colour = "Species", shape = "Species", pointsize = 10)
+
+library(tabplot)
+tableplot(iris)

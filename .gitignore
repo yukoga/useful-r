@@ -28,3 +28,4 @@ vignettes/*.pdf
 
 # exclude data directory
 data/
+.Rproj.user
